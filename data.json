@@ -1,0 +1,6 @@
+{
+    "nippon mutual funds" : {
+        "rating": 5, 
+        "category": {"risk"} ... // and so on 
+    }
+}
