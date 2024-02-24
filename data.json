@@ -1,6 +1,28 @@
 {
-    "nippon mutual funds" : {
-        "rating": 5, 
-        "category": {"risk"} ... // and so on 
+    "fundhouse": {
+        "SBI Mutual Fund": {
+            "id": 1,
+            "category": "blue chip companies",
+            "peratio" : 4.5, 
+            "rating": 3,
+            "funds" : {
+                "SBI Contra Fund": {
+                    "id": 1,
+                    "category": "low risk",
+                    "rating": 4,
+                    "returns": 50000,
+                    "fundsize": 6045003,
+                    "stocks": {
+                        "apollo": {
+                            "id": 1,
+                            "quantity": 5000,
+                            "sector": "pharmaceutical",
+                            "value": 6000
+                        }
+                    } 
+
+                }
+            }
+        }
     }
 }
