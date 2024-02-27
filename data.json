@@ -18,6 +18,10 @@
                             "quantity": 5000,
                             "sector": "pharmaceutical",
                             "value": 6000
+                        }, 
+
+                        "mrf": {
+                            "id":
                         }
                     } 
 
