@@ -1,12 +1,12 @@
 {
     "fundhouse": {
-        "SBI Mutual Fund": {
+        "SBIMutualFund": {
             "id": 1,
             "category": "blue chip companies",
             "peratio" : 4.5, 
             "rating": 3,
             "funds" : {
-                "SBI Contra Fund": {
+                "SBIContraFund": {
                     "id": 1,
                     "category": "low risk",
                     "rating": 4,
@@ -18,11 +18,150 @@
                             "quantity": 5000,
                             "sector": "pharmaceutical",
                             "value": 6000
+                        }, 
+
+
+                        "ajdfjakl":{
+
                         }
                     } 
 
                 }
             }
+        
+
+        },
+
+        "ICICIPrudentialMutualFund":{
+            "id": 2,
+            "category": ["debt","hybrid","equity"],
+            "peratio" : 4.5, 
+            "rating": 5,
+            "funds" : {
+                "ICICIPrudentialBHARAT22FOFFund": {
+                    "id": 1,
+                    "category": "equity",
+                    "rating": 5,
+                    "returns": 73.3,
+                    "fundsize": 733,
+                    "stocks": {
+                        "Larsen&ToubroLtd": {
+                            "id": 1,
+                            "quantity": 69.82,
+                            "sector": "Civil construction",
+                            "value": 24299
+                        },
+                        "NationalThermalPowerCorporationLtd": {
+                            "id": 2,
+                            "quantity": 540,
+                            "sector": "Power generation",
+                            "value": 17154.4
+                        },
+                        "ITCLimited": {
+                            "id": 3,
+                            "quantity": 386,
+                            "sector": "Diversified fmcg",
+                            "value": 17050
+                        },
+                        "PowerGridCorporationofIndiaLtd.": {
+                            "id": 4,
+                            "quantity": 518,
+                            "sector": "Power - transmission",
+                            "value": 13438.2
+                        },
+                        "AxisBankLtd": {
+                            "id": 5,
+                            "quantity": 107,
+                            "sector": "Private sector bank",
+                            "value": 11374.9
+                        }
+                        
+                }
+
+            },
+            "ICICIPrudentialRetirementFund": {
+                "id": 2,
+                "category": "solution oriented",
+                "rating": 5,
+                "returns": 58.9,
+                "fundsize": 562,
+                "stocks": {
+                    "BhartiAirtelLtd": {
+                        "id": 1,
+                        "quantity": 3.19,
+                        "sector": "Telecom - cellular & fixed line services",
+                        "value": 373.8
+                    },
+                    "DLFLtd.": {
+                        "id": 2,
+                        "quantity": 3.13,
+                        "sector": "Residential, commercial projects",
+                        "value": 251.3
+                    },
+                    "UltratechCementLtd.": {
+                        "id": 3,
+                        "quantity": 22480,
+                        "sector": "Cement & cement products",
+                        "value": 228.6
+                    },
+                    "TechMahindraLtd": {
+                        "id": 4,
+                        "quantity": 227.6,
+                        "sector": "Computers - software & consulting",
+                        "value": 227.6
+                    },
+                    "AmbujaCementsLtd": {
+                        "id": 5,
+                        "quantity": 3.37,
+                        "sector": "Cement & cement products",
+                        "value": 188.7
+                    }
+                    
+            }
+
+        },
+        "ICICIPrudentialIndiaEquity&DebtFund": {
+            "id": 3,
+            "category": "hybrid",
+            "rating": 5,
+            "returns": 38.1,
+            "fundsize": 750,
+            "stocks": {
+                "NationalThermalPowerCorporationLtd": {
+                    "id": 1,
+                    "quantity": 75.31,
+                    "sector": "Power Generation",
+                    "value": 54321
+                },
+                "ICICIBankLtd": {
+                    "id": 2,
+                    "quantity": 45.62,
+                    "sector": "Private Bank Sector",
+                    "value": 26543
+                },
+                "BhartiAirtelLtd": {
+                    "id": 3,
+                    "quantity": 30.50,
+                    "sector": "Telecom Services",
+                    "value": 24111
+                },
+                "MarutiSuzukiIndiaLtd": {
+                    "id": 4,
+                    "quantity": 78.96,
+                    "sector": "Cars",
+                    "value": 34599
+                },
+                "RelianceIndustriesLtd": {
+                    "id": 5,
+                    "quantity": 55.67,
+                    "sector": "Marketing and Refineries",
+                    "value": 20099
+                }
+                
         }
+
+    }
+        }
+
     }
 }
