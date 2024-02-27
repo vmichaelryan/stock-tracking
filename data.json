@@ -1,37 +1,5 @@
 {
     "fundhouse": {
-        "SBIMutualFund": {
-            "id": 1,
-            "category": "blue chip companies",
-            "peratio" : 4.5, 
-            "rating": 3,
-            "funds" : {
-                "SBIContraFund": {
-                    "id": 1,
-                    "category": "low risk",
-                    "rating": 4,
-                    "returns": 50000,
-                    "fundsize": 6045003,
-                    "stocks": {
-                        "apollo": {
-                            "id": 1,
-                            "quantity": 5000,
-                            "sector": "pharmaceutical",
-                            "value": 6000
-                        }, 
-
-
-                        "ajdfjakl":{
-
-                        }
-                    } 
-
-                }
-            }
-        
-
-        },
-
         "ICICIPrudentialMutualFund":{
             "id": 2,
             "category": ["debt","hybrid","equity"],
@@ -164,4 +132,5 @@
         }
 
     }
+}
 }
