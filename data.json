@@ -1,7 +1,8 @@
+[
 {
     "fundhouse": {
         "ICICIPrudentialMutualFund":{
-            "id": 2,
+            "id": 1,
             "category": ["debt","hybrid","equity"],
             "peratio" : 4.5, 
             "rating": 5,
@@ -131,6 +132,273 @@
     }
         }
 
-    }
+    },
+    "SBIMutualFund":{
+        "id": 2,
+        "category": ["debt","hybrid","equity"],
+        "peratio" : 4.5, 
+        "rating": 4,
+        "funds" : {
+            "SBIContraFund": {
+                "id": 1,
+                "category": "equity",
+                "rating": 5,
+                "returns": 49.8,
+                "fundsize": 23572,
+                "stocks": {
+                    "HDFCBankLtd": {
+                        "id": 1,
+                        "quantity": 54.71,
+                        "sector": "Private sector bank",
+                        "value": 7674.1
+                    },
+                    "GAIL(India)Ltd": {
+                        "id": 2,
+                        "quantity": 412,
+                        "sector": "Gas transmission/marketing",
+                        "value": 7106.6
+                    },
+                    "StateBankOfIndia": {
+                        "id": 3,
+                        "quantity": 1.03,
+                        "sector": "Public sector bank",
+                        "value": 6567.9
+                    },
+                    "CognizantTechnologySolutionsCorp": {
+                        "id": 4,
+                        "quantity": 9.19,
+                        "sector": "Foreign equity",
+                        "value": 6346.5
+                    },
+                    "PunjabNationalBank": {
+                        "id": 5,
+                        "quantity": 4.80,
+                        "sector": "Public sector bank",
+                        "value": 5487.9
+                    }
+
+
+                }
+            },
+            "SBIHealthcareOpportunitiesFund": {
+                "id": 2,
+                "category": "equity",
+                "rating": 5,
+                "returns": 61.5,
+                "fundsize": 2431,
+                "stocks": {
+                    " SunPharmaceuticalIndustriesLtd": {
+                        "id": 1,
+                        "quantity": 25.00,
+                        "sector": "Pharmaceuticals",
+                        "value": 3546.1
+                    },
+                    "CiplaLtd": {
+                        "id": 2,
+                        "quantity": 14,
+                        "sector": "Pharmaceuticals",
+                        "value": 1891.4
+                    },
+                    "MaxHealthcareInstituteLtd": {
+                        "id": 3,
+                        "quantity": 20.00,
+                        "sector": "Hospital",
+                        "value": 1561.6
+                    },
+                    "AetherIndustriesLtd": {
+                        "id": 4,
+                        "quantity": 14.00,
+                        "sector": "Specialty chemicals",
+                        "value": 1237.3 
+                    },
+                    "DivisLaboratoriesLtd": {
+                        "id": 5,
+                        "quantity": 3.30,
+                        "sector": "Pharmaceuticals",
+                        "value": 1211.3
+                    }
+
+
+                }
+            },
+            "SBIConsumptionOpportunitiesFund": {
+                "id": 3,
+                "category": "equity",
+                "rating": 5,
+                "returns": 36.7,
+                "fundsize": 2000,
+                "stocks": {
+                    "ITCLimited": {
+                        "id": 1,
+                        "quantity": 25.40,
+                        "sector": "Diversified fmcg",
+                        "value": 1121.5
+                    },
+                    "BhartiAirtelLtd": {
+                        "id": 2,
+                        "quantity": 9.20,
+                        "sector": "Telecom - cellular & fixed line services",
+                        "value": 1077
+                    },
+                    "HindustanUnileverLtd": {
+                        "id": 3,
+                        "quantity": 3.53,
+                        "sector": "Diversified fmcg",
+                        "value": 876
+                    },
+                    "BajajAutoLtd": {
+                        "id": 4,
+                        "quantity": 1.10,
+                        "sector": "2/3 wheelers",
+                        "value": 843.4
+                    },
+                    "HeroMotocorpLtd": {
+                        "id": 5,
+                        "quantity": 1.65,
+                        "sector": "2/3 wheelers",
+                        "value": 762.6
+                    }
+
+
+                }
+            }
+        }
+
+
+    },
+    "HDFC":{
+        "id": 2,
+        "category": ["debt","hybrid","equity","solution oriented"],
+        "peratio" : 4.5, 
+        "rating": 4,
+        "funds" : {
+            "HDFCRetirementSavingsFund": {
+                "id": 1,
+                "category": "solution oriented",
+                "rating": 5,
+                "returns": 42.4,
+                "fundsize": 4574,
+                "stocks": {
+                    " ICICIBankLtd": {
+                        "id": 1,
+                        "quantity": 29.00,
+                        "sector": "Private sector bank",
+                        "value": 2981.6
+                    },
+                    "HDFCBankLtd": {
+                        "id": 2,
+                        "quantity": 20.00,
+                        "sector": "Private sector bank",
+                        "value": 2925.1
+                    },
+                    "InfosysLtd": {
+                        "id": 3,
+                        "quantity": 9.50,
+                        "sector": "Computers - software & consulting",
+                        "value": 1577.9
+                    },
+                    "RelianceIndustriesLtd": {
+                        "id": 4,
+                        "quantity": 5.20,
+                        "sector": "Refineries & marketing",
+                        "value": 1483.7
+                    },
+                    "AxisBankLtd": {
+                        "id": 5,
+                        "quantity": 12.00,
+                        "sector": "Public sector bank",
+                        "value": 1281.3
+                    }
+
+
+                }
+            },
+            "SBIHealthcareOpportunitiesFund": {
+                "id": 2,
+                "category": "equity",
+                "rating": 5,
+                "returns": 61.5,
+                "fundsize": 2431,
+                "stocks": {
+                    " SunPharmaceuticalIndustriesLtd": {
+                        "id": 1,
+                        "quantity": 25.00,
+                        "sector": "Pharmaceuticals",
+                        "value": 3546.1
+                    },
+                    "CiplaLtd": {
+                        "id": 2,
+                        "quantity": 14,
+                        "sector": "Pharmaceuticals",
+                        "value": 1891.4
+                    },
+                    "MaxHealthcareInstituteLtd": {
+                        "id": 3,
+                        "quantity": 20.00,
+                        "sector": "Hospital",
+                        "value": 1561.6
+                    },
+                    "AetherIndustriesLtd": {
+                        "id": 4,
+                        "quantity": 14.00,
+                        "sector": "Specialty chemicals",
+                        "value": 1237.3 
+                    },
+                    "DivisLaboratoriesLtd": {
+                        "id": 5,
+                        "quantity": 3.30,
+                        "sector": "Pharmaceuticals",
+                        "value": 1211.3
+                    }
+
+
+                }
+            },
+            "SBIConsumptionOpportunitiesFund": {
+                "id": 3,
+                "category": "equity",
+                "rating": 5,
+                "returns": 36.7,
+                "fundsize": 2000,
+                "stocks": {
+                    "ITCLimited": {
+                        "id": 1,
+                        "quantity": 25.40,
+                        "sector": "Diversified fmcg",
+                        "value": 1121.5
+                    },
+                    "BhartiAirtelLtd": {
+                        "id": 2,
+                        "quantity": 9.20,
+                        "sector": "Telecom - cellular & fixed line services",
+                        "value": 1077
+                    },
+                    "HindustanUnileverLtd": {
+                        "id": 3,
+                        "quantity": 3.53,
+                        "sector": "Diversified fmcg",
+                        "value": 876
+                    },
+                    "BajajAutoLtd": {
+                        "id": 4,
+                        "quantity": 1.10,
+                        "sector": "2/3 wheelers",
+                        "value": 843.4
+                    },
+                    "HeroMotocorpLtd": {
+                        "id": 5,
+                        "quantity": 1.65,
+                        "sector": "2/3 wheelers",
+                        "value": 762.6
+                    }
+
+
+                }
+            }
+        }
+
+
 }
 }
+
+]
