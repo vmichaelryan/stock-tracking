@@ -313,83 +313,83 @@
 
                 }
             },
-            "SBIHealthcareOpportunitiesFund": {
+            "HDFCBalanceAdvantage": {
                 "id": 2,
-                "category": "equity",
+                "category": "hybrid",
                 "rating": 5,
-                "returns": 61.5,
-                "fundsize": 2431,
+                "returns": 42.0,
+                "fundsize": 77011,
                 "stocks": {
-                    " SunPharmaceuticalIndustriesLtd": {
+                    "HDFCBankLtd": {
                         "id": 1,
-                        "quantity": 25.00,
-                        "sector": "Pharmaceuticals",
-                        "value": 3546.1
+                        "quantity": 3.18,
+                        "sector": "Private sector bank",
+                        "value": 46516
                     },
-                    "CiplaLtd": {
+                    "CoalIndiaLtd": {
                         "id": 2,
-                        "quantity": 14,
-                        "sector": "Pharmaceuticals",
-                        "value": 1891.4
+                        "quantity": 7.57,
+                        "sector": "Coal",
+                        "value": 30745.6
                     },
-                    "MaxHealthcareInstituteLtd": {
+                    " NationalThermalPowerCorporationLtd": {
                         "id": 3,
-                        "quantity": 20.00,
-                        "sector": "Hospital",
-                        "value": 1561.6
+                        "quantity": 8.38,
+                        "sector": "Power generation",
+                        "value": 26598.4
                     },
-                    "AetherIndustriesLtd": {
+                    "StateBankOfIndia": {
                         "id": 4,
-                        "quantity": 14.00,
-                        "sector": "Specialty chemicals",
-                        "value": 1237.3 
+                        "quantity": 4.11,
+                        "sector": "Public sector bank",
+                        "value": 26319.6
                     },
-                    "DivisLaboratoriesLtd": {
+                    "ICICIBankLtd": {
                         "id": 5,
-                        "quantity": 3.30,
-                        "sector": "Pharmaceuticals",
-                        "value": 1211.3
+                        "quantity": 2.56,
+                        "sector": "Private sector bank",
+                        "value": 26284.2
                     }
 
 
                 }
             },
-            "SBIConsumptionOpportunitiesFund": {
+            "HDFCTop100Fund": {
                 "id": 3,
                 "category": "equity",
-                "rating": 5,
-                "returns": 36.7,
-                "fundsize": 2000,
+                "rating": 4,
+                "returns": 39.0,
+                "fundsize": 30979,
                 "stocks": {
-                    "ITCLimited": {
+                    "ICICIBankLtd": {
                         "id": 1,
-                        "quantity": 25.40,
-                        "sector": "Diversified fmcg",
-                        "value": 1121.5
+                        "quantity": 2.88,
+                        "sector": "Private sector bank",
+                        "value": 29652.3
                     },
-                    "BhartiAirtelLtd": {
+                    "HDFCBankLtd": {
                         "id": 2,
-                        "quantity": 9.20,
-                        "sector": "Telecom - cellular & fixed line services",
-                        "value": 1077
+                        "quantity": 1.64,
+                        "sector": "Private sector bank",
+                        "value": 23951.2
                     },
-                    "HindustanUnileverLtd": {
+                    "RelianceIndustriesLtd": {
                         "id": 3,
-                        "quantity": 3.53,
-                        "sector": "Diversified fmcg",
-                        "value": 876
+                        "quantity": 78.07,
+                        "sector": "Refineries & marketing",
+                        "value": 22274.7
                     },
-                    "BajajAutoLtd": {
+                    "InfosysLtd": {
                         "id": 4,
-                        "quantity": 1.10,
-                        "sector": "2/3 wheelers",
-                        "value": 843.4
+                        "quantity": 1.06,
+                        "sector": "Computers - software & consulting",
+                        "value": 17571.7
                     },
-                    "HeroMotocorpLtd": {
+                    "NationalThermalPowerCorporationLtd": {
                         "id": 5,
-                        "quantity": 1.65,
-                        "sector": "2/3 wheelers",
-                        "value": 762.6
+                        "quantity": 5.47,
+                        "sector": "Power generation",
+                        "value": 17357.6
                     }
 
 
@@ -398,6 +398,7 @@
         }
 
 
+}
 }
 }
 
